@@ -16,7 +16,7 @@ namespace cs332_lab3
             using var image = new Image<Rgba32>(width, height, new Rgba32(255, 255, 255));
 
             // Вершины треугольника
-            var p0 = new Vector2(100, 500);
+            var p0 = new Vector2(50, 500);
             var p1 = new Vector2(500, 500);
             var p2 = new Vector2(300, 100);
 
